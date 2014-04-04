@@ -1,0 +1,24 @@
+.table-cell { 
+	font-size: 11pt;
+	height: 24pt;
+	line-height: 24pt;
+}
+.table-head {
+	font-size: 14pt;
+	height: 34pt;
+	line-height: 24pt;
+	border-bottom: 1px solid #eee;
+}
+.product-id {
+	width: 10%;
+}
+.product-name {
+	width: 60%;
+	text-indent: 10pt;
+}
+.product-quantity {
+	width: 30%;
+}
+.fill {
+	background-color: rgb( 240, 240, 240 );
+}
